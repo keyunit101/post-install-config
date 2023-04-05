@@ -19,12 +19,17 @@
 <p>Now, I will create new users in the osTicket system by accessing the "Users" section in the Agent Panel and clicking on "Add New." In an osTicket system, a user is someone who interacts with the system by submitting tickets, providing additional information or feedback, or accessing support resources. These users can be customers, employees, or any other individuals who require support or assistance from the organization using osTicket. In this case, my user will be "Micheal Jordan".</p>
 <img src="https://i.imgur.com/ZzkHsZH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>Creating User "Michael Jordan"</p>
-<img src
+<img src="https://i.imgur.com/MRk6Dgq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img src="https://i.imgur.com/L09eBrr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+<p> Next, a "Service Level Agreement" (SLA) needs to be created. Here are the layouts: "Sevice Level I" - helpdesk tickets must be responded to within 1 hour on a 24/7 schedule. "Service Level II" - ticket response time must be within 6 hours on a 24/7 schedule.Go to admin panel -> manage -> SLA to create all three of these SLAs.
 
-
-
-
-
+<p>
+<img src="https://i.imgur.com/1tOWZIX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img src="https://i.imgur.com/PILhbxb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img src="https://i.imgur.com/NIqRVtl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
